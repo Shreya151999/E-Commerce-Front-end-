@@ -1,2 +1,2 @@
-# E-Commerce-Front-end-
+# E-Commerce-Front-end
 An E-Commerce Front End Website.
